@@ -1,4 +1,4 @@
-# CovidDoctor application client - Cross-platform development based on C # / Xamarin.Forms
+# RemoteDoctor application client - Cross-platform development based on C # / Xamarin.Forms
 This repo introduces my Xamarin.Forms app (Android, UWP) called RemoteDoctor
   
 ![](https://github.com/tothpalcsilla/CovidDoctor_Wiki/blob/main/title.PNG)  
